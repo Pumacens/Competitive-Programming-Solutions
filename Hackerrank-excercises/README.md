@@ -1,4 +1,8 @@
+<div align="center">
+
 [![Hacker-rank Logo](https://miro.medium.com/max/5522/1*JhV105AX1GNhHhqc8ZunEg.png)](https://www.hackerrank.com/pumacens)
+
+</div>
 
 [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
 

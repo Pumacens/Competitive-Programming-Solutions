@@ -1,4 +1,8 @@
+
+<div align="center">
+
 [![](https://jungladigital.com/wp-content/uploads/2019/03/codewars-800-350.png)](https://www.codewars.com/users/pumacens)
+</div>
 
 [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
 
