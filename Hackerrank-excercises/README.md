@@ -2,9 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
 
-My solutions (and from others) to excercises of some skills paths in [Hacker Rank](https://www.hackerrank.com/)
-
-[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
+<hr>
 
 ## Skills Paths
 
@@ -14,3 +12,6 @@ My solutions (and from others) to excercises of some skills paths in [Hacker Ran
   - [10 days of Javascript](10_days_javascript)
   - Mathematics (Not inplemented)
 
+<hr>
+
+[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
