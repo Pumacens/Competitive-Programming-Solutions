@@ -9,9 +9,9 @@
 <hr>
 
 ## Languages
-- [Python](/Python)
-- [C#](/CSharp)
-- [JavaScript](/JavaScript)
+- [Python](Python)
+- [C#](CSharp)
+- [JavaScript](JavaScript)
 
 <hr>
 
