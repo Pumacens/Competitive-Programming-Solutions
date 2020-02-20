@@ -1289,3 +1289,5 @@
 1288. [Palindrome chain length](https://www.codewars.com/kata/525f039017c7cd0e1a000a26) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/1288.%20Palindrome%20chain%20length.py)
 1289. [Flatten](https://www.codewars.com/kata/5250a89b1625e5decd000413) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/1289.%20Flatten.py)
 1290. [Javascript filter - 1](https://www.codewars.com/kata/525d9b1a037b7a9da7000905) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/1290.%20Javascript%20filter%20-%201.py)
+1291. ["Very Even" Numbers.](https://www.codewars.com/kata/58c9322bedb4235468000019) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/1291.%20Very%20even%20numbers.%20.py)
+1292. [Will you survive the zombie onslaught?](https://www.codewars.com/kata/5deeb1cc0d5bc9000f70aa74/solutions/python) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/1292.Will%20you%20survive%20the%20zombie%20onslaught?.py)
