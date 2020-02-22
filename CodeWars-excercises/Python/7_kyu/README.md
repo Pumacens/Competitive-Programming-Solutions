@@ -31,7 +31,7 @@
 30. [Product Of Maximums Of Array (Array Series #2) ](https://www.codewars.com/kata/5a63948acadebff56f000018) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/30.%20Product%20Of%20Maximums%20Of%20Array%20(Array%20Series%20#2)%20.py)
 31. [Special  Number (Special Numbers Series  #5)](https://www.codewars.com/kata/5a55f04be6be383a50000187) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/31.%20Special%20%20Number%20(Special%20Numbers%20Series%20%20#5).py)
 32. [Automorphic Number (Special Numbers Series  #6)](https://www.codewars.com/kata/5a58d889880385c2f40000aa) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/32.%20Automorphic%20Number%20(Special%20Numbers%20Series%20%20#6).py)
-33. [Extra Perfect Numbers (Special Numbers Series  #7)](https://www.codewars.com/kata/5a662a02e626c54e87000123) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/33.%20Extra%20Perfect%20Numbers%20(Special%20Numbers%20Series%20%20#7).py)
+33. [Extra Perfect Numbers (Special Numbers Series  #7)](https://www.codewars.com/kata/5a662a02e626c54e87000123) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/33.%20Extra%20Perfect%20Numbers%20(Special%20Numbers%20Series%20%207).py)
 34. [Absent vowel](https://www.codewars.com/kata/56414fdc6488ee99db00002c) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/34.%20Absent%20vowel.py)
 35. [Maximum Gap (Array Series #4)](https://www.codewars.com/kata/5a7893ef0025e9eb50000013) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/35.%20Maximum%20Gap%20(Array%20Series%20#4).py)
 36. [Product  Array (Array Series #5)](https://www.codewars.com/kata/5a905c2157c562994900009d) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/36.%20Product%20%20Array%20(Array%20Series%20#5).py)
