@@ -1,1 +1,2 @@
-#Not implemented yet
+def solution(string, ending):
+    return string.endswith(ending)
