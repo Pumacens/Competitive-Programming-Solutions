@@ -37,7 +37,7 @@
 36. [Product  Array (Array Series #5)](https://www.codewars.com/kata/5a905c2157c562994900009d) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/36.%20Product%20%20Array%20(Array%20Series%20#5).py)
 37. [Minimum Steps  (Array Series #6)](https://www.codewars.com/kata/5a91a7c5fd8c061367000002) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/37.%20Minimum%20Steps%20%20(Array%20Series%20#6).py)
 38. [Sort Out The Men  From Boys ](https://www.codewars.com/kata/5af15a37de4c7f223e00012d) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/38.%20Sort%20Out%20The%20Men%20%20From%20Boys%20.py)
-39. [Maximum Triplet Sum (Array Series #7) ](https://www.codewars.com/kata/5aa1bcda373c2eb596000112) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/39.%20Maximum%20Triplet%20Sum%20(Array%20Series%20#7)%20.py)
+39. [Maximum Triplet Sum (Array Series #7) ](https://www.codewars.com/kata/5aa1bcda373c2eb596000112) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/39.%20Maximum%20Triplet%20Sum%20(Array%20Series%207)%20.py)
 40. [Nth Smallest Element (Array Series  #4) ](https://www.codewars.com/kata/5a512f6a80eba857280000fc) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/40.%20Nth%20Smallest%20Element%20(Array%20Series%20%20#4)%20.py)
 41. [Form The Minimum](https://www.codewars.com/kata/5ac6932b2f317b96980000ca) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/41.%20Form%20The%20Minimum.py)
 42. [Form The Largest ](https://www.codewars.com/kata/5a4ea304b3bfa89a9900008e) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/42.%20Form%20The%20Largest%20.py)
