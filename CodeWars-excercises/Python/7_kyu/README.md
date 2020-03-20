@@ -1291,4 +1291,6 @@
 1290. [Javascript filter - 1](https://www.codewars.com/kata/525d9b1a037b7a9da7000905) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/1290.%20Javascript%20filter%20-%201.py)
 1291. ["Very Even" Numbers.](https://www.codewars.com/kata/58c9322bedb4235468000019) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/1291.%20Very%20even%20numbers.%20.py)
 1292. [Will you survive the zombie onslaught?](https://www.codewars.com/kata/5deeb1cc0d5bc9000f70aa74) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/1292.Will%20you%20survive%20the%20zombie%20onslaught?.py)
-1293. [Sort Out The Men From Boys](https://www.codewars.com/kata/5af15a37de4c7f223e00012d) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/1293.%20Sort%20Out%20The%20Men%20From%20Boys.py)
+1293. [Sort Out The Men From Boys](https://www.codewars.com/kata/5af15a37de4c7f223e00012d) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/1293.%20Sort%20Out%20The%20Men%20From%20Boys.py)1293. [Sort Out The Men From Boys](https://www.codewars.com/kata/5af15a37de4c7f223e00012d) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/1293.%20Sort%20Out%20The%20Men%20From%20Boys.py)
+1294. [List of all Rationals](https://www.codewars.com/kata/5e4e8f5a72d9550032953717/python) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/1294.%20List%20Of%20All%20Rationals.py)
+1292. [Find all non-consecutive numbers](https://www.codewars.com/kata/58f8b35fda19c0c79400020f/python) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/1294.%20Find%20all%20non-consecutive%20numbers.py)
