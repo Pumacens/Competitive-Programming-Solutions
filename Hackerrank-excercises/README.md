@@ -11,7 +11,6 @@
 ## Skills Paths
 
   - [Python](./Python_Files)
-<<<<<<< HEAD
   - [Algorithms](./Algorithms_Files)
   - [30 days of code](./30_days_code)
   - [10 days of Javascript](./10_days_javascript)
