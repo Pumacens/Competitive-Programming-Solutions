@@ -10,10 +10,10 @@
 
 ## Skills Paths
 
-  - [Python](/Python_Files)
-  - [Algorithms](/Algorithms_Files)
-  - [30 days of code](30_days_code)
-  - [10 days of Javascript](10_days_javascript)
+  - [Python](./Python_Files)
+  - [Algorithms](./Algorithms_Files)
+  - [30 days of code](./30_days_code)
+  - [10 days of Javascript](./10_days_javascript)
   - Mathematics (Not inplemented)
 
 <hr>
