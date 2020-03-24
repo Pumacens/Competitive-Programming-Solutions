@@ -94,7 +94,7 @@
 93. [Thinking & Testing : Uniq or not Uniq](https://www.codewars.com/kata/56d949281b5fdc7666000004) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/93.%20Thinking%20&%20Testing%20-%20Uniq%20or%20not%20Uniq.py)
 94. [Love vs friendship](https://www.codewars.com/kata/59706036f6e5d1e22d000016) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/94.%20Love%20vs%20friendship.py)
 95. [Thinking & Testing: A and B?](https://www.codewars.com/kata/56d904db9963e9cf5000037d) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/95.%20Thinking%20&%20Testing-%20A%20and%20B%20.py)
-96. [Simple Fun #74: Growing Plant](https://www.codewars.com/kata/58941fec8afa3618c9000184) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/96.%20Simple%20Fun%20#74-%20Growing%20Plant.py)
+96. [Simple Fun #74: Growing Plant](https://www.codewars.com/kata/58941fec8afa3618c9000184) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/96.%20Simple%20Fun%20-74-%20Growing%20Plant.py)
 97. [Most valuable character](https://www.codewars.com/kata/5dd5128f16eced000e4c42ba) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/97.%20Most%20valuable%20character.py)
 98. [Computer problem series #2: Torrent download](https://www.codewars.com/kata/5d4c6809089c6e5031f189ed) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/98.%20Computer%20problem%20series%20#2-%20Torrent%20download.py)
 99. [GCD sum ](https://www.codewars.com/kata/5dd259444228280032b1ed2a) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/99.%20GCD%20sum%20.py)
