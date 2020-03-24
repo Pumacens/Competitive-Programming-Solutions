@@ -338,7 +338,7 @@
 337. [Palindromic Expression](https://www.codewars.com/kata/5c11c3f757415b1735000338) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/337.%20Palindromic%20Expression.py)
 338. [Slaphead](https://www.codewars.com/kata/57efab9acba9daa4d1000b30) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/338.%20Slaphead.py)
 339. [My Languages](https://www.codewars.com/kata/5b16490986b6d336c900007d) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/339.%20My%20Languages.py)
-340. [Simple Fun #3: Late Ride](https://www.codewars.com/kata/588422ba4e8efb583d00007d) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/340.%20Simple%20Fun%20#3-%20Late%20Ride.py)
+340. [Simple Fun #3: Late Ride](https://www.codewars.com/kata/588422ba4e8efb583d00007d) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/340.%20Simple%20Fun%203-%20Late%20Ride.py)
 341. [Where is Vasya?](https://www.codewars.com/kata/554754ac9d8ac3be120000b2) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/341.%20Where%20is%20Vasya%20.py)
 342. [Geometry Basics: Triangle Perimeter  in 2D](https://www.codewars.com/kata/58e3e62f20617b6d7700120a) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/342.%20Geometry%20Basics-%20Triangle%20Perimeter%20%20in%202D.py)
 343. [Password maker](https://www.codewars.com/kata/5637b03c6be7e01d99000046) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/343.%20Password%20maker.py)
