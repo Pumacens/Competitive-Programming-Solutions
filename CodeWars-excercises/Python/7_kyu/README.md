@@ -1295,3 +1295,4 @@
 1294. [List of all Rationals](https://www.codewars.com/kata/5e4e8f5a72d9550032953717/python) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/1294.%20List%20Of%20All%20Rationals.py)
 1295. [Find all non-consecutive numbers](https://www.codewars.com/kata/58f8b35fda19c0c79400020f/python) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/1295.%20Find%20all%20non-consecutive%20numbers.py)
 1296. [noobCode 03 - CHECK THESE LETTERS... see if letters in "String 1" are present in "String 2"](https://www.codewars.com/kata/57470efebf81fea166001627/python) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/1296.%20noobCode%20-03-%20-%20CHECK%20THESE%20LETTERS%20see%20if%20letters%20in%20String%201%20are%20present%20in%20String%202.py)
+1297. [No oddities here](https://www.codewars.com/kata/51fd6bc82bc150b28e0000ce/python) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/1297.%20No%20oddities%20here.py)
