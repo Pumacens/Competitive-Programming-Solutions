@@ -51,7 +51,7 @@
 50. [Count the divisors of a number](https://www.codewars.com/kata/542c0f198e077084c0000c2e) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/50.%20Count%20the%20divisors%20of%20a%20number.py)
 51. [Most sales](https://www.codewars.com/kata/5e16ffb7297fe00001114824) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/51.%20Most%20sales.py)
 52. [The fusc function  -- Part 1](https://www.codewars.com/kata/570409d3d80ec699af001bf9) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/52.%20The%20fusc%20function%20%20--%20Part%201.py)
-53. [Beginner Series #3 Sum of Numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/53.%20Beginner%20Series%20#3%20Sum%20of%20Numbers.py)
+53. [Beginner Series #3 Sum of Numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/53.%20Beginner%20Series%20-3-%20Sum%20of%20Numbers.py)
 54. [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/54.%20Complementary%20DNA.py)
 55. [Vampire numbers less than 1 000 000](https://www.codewars.com/kata/558d5c71c68d1e86b000010f) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/55.%20Vampire%20numbers%20less%20than%201%20000%20000.py)
 56. [Conference Traveller](https://www.codewars.com/kata/56f5594a575d7d3c0e000ea0) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/56.%20Conference%20Traveller.py)
