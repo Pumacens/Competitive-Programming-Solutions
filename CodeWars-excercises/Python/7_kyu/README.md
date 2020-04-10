@@ -1309,3 +1309,4 @@
 1308. [2D Vector Mapping](https://www.codewars.com/kata/5da995d583326300293ce4cb/python) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/1308.%20-2D-%20Vector%20Mapping.py)
 1309. [2D Vector Mapping](https://www.codewars.com/kata/5aee86c5783bb432cd000018/python) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/1309.%20Responsible%20Drinking.py)
 1310. [List of all rationals - going further](https://www.codewars.com/kata/5e529a6fb95d280032d04389/python) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/1310.%20List%20of%20all%20rationals%20-%20going%20further.py)
+1311. [Points in Segments](https://www.codewars.com/kata/5baa25f3246d071df90002b7/python) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/1310.%20Points%20in%20Segments.py)
