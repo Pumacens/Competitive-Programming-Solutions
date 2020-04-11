@@ -1,1 +1,5 @@
-#Not implemented yet
+def descending_order(num):
+    return int(''.join(sorted(str(num), reverse=True)))
+
+
+
