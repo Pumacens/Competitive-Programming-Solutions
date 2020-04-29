@@ -10,8 +10,8 @@
 
 ## Languages
 - [Python](Python)
-- [C#](CSharp)
-- [JavaScript](JavaScript)
+- C# (Not excercises resolved)
+- JavaScript (Not excercises resolved)
 
 <hr>
 
