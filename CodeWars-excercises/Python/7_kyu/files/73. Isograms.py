@@ -1,1 +1,10 @@
-#Not implemented yet
+def is_isogram(string):
+    string = string.lower()
+    return len(string) == len(set(string))
+
+
+# def is_isogram(string):
+#     string = string.lower()
+#     for letter in string:
+#         if string.count(letter) > 1: return False
+#     return True
