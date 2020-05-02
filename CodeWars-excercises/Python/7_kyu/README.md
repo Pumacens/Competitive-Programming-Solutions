@@ -1322,3 +1322,4 @@
 1321. [Sum even numbers](https://www.codewars.com/kata/586beb5ba44cfc44ed0006c3/python) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/1321.%20Sum%20even%20numbers.py)
 1322. [Not above the one!](https://www.codewars.com/kata/5b5097324a317afc740000fe/python) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/1322.%20Not%20above%20the%20one!.py)
 1323. [Basic Calculator](https://www.codewars.com/kata/5296455e4fe0cdf2e000059f/python) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/1323.%20Basic%20Calculator.py)
+1324. [last digits of a number](https://www.codewars.com/kata/5cd5ba1ce4471a00256930c0/python) &nbsp;&nbsp; | &nbsp;&nbsp; [Solution](files/1324.%20last%20digits%20of%20a%20number.py)
